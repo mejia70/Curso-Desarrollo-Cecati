@@ -1,0 +1,18 @@
+.mostrar {
+    display: inline-block;
+    width: 30%;
+    }
+
+    .fondo-verde {
+    background-color: green;
+    }
+    
+    .fondo-amarillo {
+    background-color: yellow;
+    } 
+
+    .fondo-rosa {
+        background-color: pink;
+    }
+    View
+}
